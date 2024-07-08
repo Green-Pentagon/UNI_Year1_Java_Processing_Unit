@@ -1,0 +1,10 @@
+	
+    
+12
+53
+@
+This is
+a text
+and data types
+file
+with multiple lines
